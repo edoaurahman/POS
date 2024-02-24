@@ -1,0 +1,5 @@
+<x-layout>
+    <div class="text-center">
+        <p class="text-3xl">Halaman Home Page</p>
+    </div>
+</x-layout>
